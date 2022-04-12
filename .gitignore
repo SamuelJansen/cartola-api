@@ -14,6 +14,7 @@ dummydata/
 temp/
 *migrations.yml
 *migrations.txt
+*.json
 
 # C extensions
 *.so
